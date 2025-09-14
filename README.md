@@ -25,7 +25,7 @@ Vous pouvez utiliser ce repo comme suit :
 
 - Visualiser les codes dans votre navigateur avec l'URL
 
-	`https://github.com/2024-PRG1-GMB/COURS`
+	`https://github.com/2025-PRG1-GMB/COURS`
 
 - Copier/Coller un code en particulier dans votre IDE
 
