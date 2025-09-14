@@ -1,9 +1,9 @@
 # Tutorat PRG1
 
-| Jour      | Horaire       | Salle | Professeur         | email                         |
-|:----------|:--------------|:-----:|:-------------------|:------------------------------|
-| Lundi	    | 12h00 - 12h45 |  G05  | Guy-Michel Breguet | olivier.cuisenaire@heig-vd.ch |
-| Mardi	    | 12h00 - 12h45 |  J01  | Olivier Cuisenaire | guy-michel.breguet@heig-vd.ch |
+| Jour      | Horaire         | Salle | Professeur         | email                         |
+|:----------|:----------------|:-----:|:-------------------|:------------------------------|
+| Mardi	    | 12h00 - 12h45   |  J06  | Guy-Michel Breguet | guy-michel.breguet@heig-vd.ch |
+| Vendredi	 | 12h00 - 12h45  |  H01  | Guy-Michel Breguet | guy-michel.breguet@heig-vd.ch |
 
 Sur inscription par email le jour précédant.
 
