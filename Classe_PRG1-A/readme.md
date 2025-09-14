@@ -30,7 +30,7 @@
 
 Tutorat et Appui PRG1
 - [Planning](../Tutorat_Appui.md)
-- [MS-Teams / code : XXXXXX](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
+- [MS-Teams / code : oxjsoz1](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 
 ---
 > ## <a name="semaine_01"></a>SEMAINE 01 - 15.09.2025 - 21.09.2025 [⬆︎](readme.md#start)
