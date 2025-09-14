@@ -1,12 +1,12 @@
 # Bienvenu sur le repo PRG1 de GMB
 
 ### Classes
-- [PRG1-B](Classe_PRG1-B)
+- [PRG1-B](Classe_PRG1-A)
+	- [Journal](Classe_PRG1-A/readme.md)
+	- [Demos](Classe_PRG1-A/Demos_PRG1-A)
+- [PRG1-E](Classe_PRG1-B)
 	- [Journal](Classe_PRG1-B/readme.md)
 	- [Demos](Classe_PRG1-B/Demos_PRG1-B)
-- [PRG1-E](Classe_PRG1-E)
-	- [Journal](Classe_PRG1-E/readme.md)
-	- [Demos](Classe_PRG1-E/Demos_PRG1-E)
 - [Règles PRG1](Complements/regles_PRG1.md)
 
 ### Matériel
@@ -33,7 +33,7 @@ Vous pouvez utiliser ce repo comme suit :
 
 - Cloner ce git entier avec la commande
 
-	`git clone git@github.com:2024-PRG1-GMB/COURS.git`
+	`git clone git@github.com:2025-PRG1-GMB/COURS.git`
 
 - ... puis faire un pull régulièrement
 
