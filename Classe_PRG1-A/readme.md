@@ -37,6 +37,20 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - Bienvenue
+    - Présentation générale
+    - Fiche unité PRG1
+    - Règles de cours et laboratoires
+    - Professeur et assistant
+    - Tutorat
+    - **GitHub**
+        - https://github.com/2025-PRG1-GMB/COURS
+        - https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices
+    - **MS-Teams**
+        - inscription => 45h2rd2
+        - présentation / objectifs
+
+    - chap 0 : terminé
 
 ### Mardi
 - **Labo**
