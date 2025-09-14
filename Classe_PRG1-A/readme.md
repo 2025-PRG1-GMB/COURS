@@ -21,7 +21,7 @@
 ## Liens utiles
 - [Support de cours](../Slides)
 - [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Demos PRG1-E](Classe_PRG1-A)
+- [Demos PRG1-A](Classe_PRG1-A)
 - [MS-Teams PRG1-A / code : XXXXXX](https://teams.microsoft.com/l/team/19%3A-UDHorcO8oLZKz_JN_bD0dR04XJpHNjYdIfEiViswVI1%40thread.tacv2/conversations?groupId=d0c0a906-a0b6-4364-8a0d-e48ee3a828e1&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 - [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments PRG1](../Complements)
