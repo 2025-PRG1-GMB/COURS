@@ -12,7 +12,7 @@
 ### Matériel
 - [Supports de cours](Slides)
 - [Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Démonstrations](https://github.com/gmbreguet/PRG1_GMB_DEMO)
+- [Démos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments](Complements) 
 - [Données laboratoire](Laboratoires) 
 - [Prof et Assistants](Prof_Assistants.md)

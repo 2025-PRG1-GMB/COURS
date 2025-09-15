@@ -23,7 +23,7 @@
 - [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
 - [Demos PRG1-A](Demos)
 - [MS-Teams PRG1-A](https://teams.microsoft.com/l/team/19%3AVg4ZZljLpAHIENKxjAoGGsJ6M5BcYwmAh-6fQq2XZnY1%40thread.tacv2/conversations?groupId=3e2d9696-6bb1-46b5-a09d-9d02657344b9&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-- [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
+- [Démos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments PRG1](../Complements)
 - [Prof et Assistants](../Prof_Assistants.md)
 - [Règles PRG1](../Complements/regles_PRG1.md)
