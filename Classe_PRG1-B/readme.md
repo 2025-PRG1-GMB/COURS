@@ -45,7 +45,7 @@ Tutorat et Appui PRG1
     - Tutorat
     - **GitHub**
         - https://github.com/2025-PRG1-GMB/COURS
-        - https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices
+        - https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
     - **MS-Teams**
         - inscription => 45h2rd2
         - présentation / objectifs
