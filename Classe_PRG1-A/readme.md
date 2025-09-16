@@ -53,11 +53,13 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
-    - Tutorat
-    - chap 1 => slide ...
+    - chap 1 => terminé
+    - exercices chap 1 : faits et corrigés
 
 ### Mercredi
 - **Cours**
+    - Tutorat
+- 
 - **Labo**
 
 ### Jeudi
