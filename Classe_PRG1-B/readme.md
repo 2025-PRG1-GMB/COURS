@@ -53,7 +53,9 @@ Tutorat et Appui PRG1
     - chap 0 : terminé
 
 ### Mardi
-- **Labo**
+- **cours**
+  - chap 1 => fin
+  - exercices chap 1 fait et corrigés
 
 ### Jeudi
 - **Cours**
