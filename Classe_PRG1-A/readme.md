@@ -61,9 +61,10 @@ Tutorat et Appui PRG1
     - Tutorat
     - chap 2 => slide 32
     - démos en classe
-    - exercices chap 2 : 1.1 à 3.3 à faire
-- 
+ 
 - **Labo**
+    - [Labo-01 - Suite de Wallis](https://github.com/2025-PRG1-GMB/COURS/tree/main/Laboratoires/01_Wallis_pseudo)
+    - exercices chap 2 : 1.1 à 3.3 à faire
 
 ### Jeudi
 - **Cours**
