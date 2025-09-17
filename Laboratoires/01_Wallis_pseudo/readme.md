@@ -1,4 +1,4 @@
-## 02 - Suite de Wallis
+## 01 - Suite de Wallis
 
 ### Objectif
 Par groupe de **4 étudiants**, développer un pseudo-code
@@ -19,6 +19,7 @@ Si le terme saisi n'était pas correct, le programme indiquerait le problème av
 Sur cette base, proposer un **pseudo-code par raffinement successif**.
 
 **NB** : Aucun code n'est demandé
+
 
 <Details>
 <Summary>Aide</Summary>
