@@ -91,9 +91,8 @@
 ### Lundi
 - **Cours**
 
-### Mardi
+### Mardi (GMB absent)
 - **Labo**
-  - GMB absent
 
 ### Jeudi
 - **Cours**
