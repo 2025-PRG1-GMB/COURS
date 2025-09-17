@@ -59,6 +59,9 @@ Tutorat et Appui PRG1
 ### Mercredi
 - **Cours**
     - Tutorat
+    - chap 2 => slide 32
+    - démos en classe
+    - exercices chap 2 : 1.1 à 3.3 à faire
 - 
 - **Labo**
 
