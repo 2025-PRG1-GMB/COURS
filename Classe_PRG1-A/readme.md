@@ -18,20 +18,6 @@
 [15](readme.md#semaine_15)
 [16](readme.md#semaine_16)
 
-## Liens utiles
-- [Support de cours](../Slides)
-- [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Demos PRG1-A](Demos)
-- [MS-Teams PRG1-A](https://teams.microsoft.com/l/team/19%3AVg4ZZljLpAHIENKxjAoGGsJ6M5BcYwmAh-6fQq2XZnY1%40thread.tacv2/conversations?groupId=3e2d9696-6bb1-46b5-a09d-9d02657344b9&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-- [Démos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
-- [Compléments PRG1](../Complements)
-- [Prof et Assistants](../Prof_Assistants.md)
-- [Règles PRG1](../Complements/regles_PRG1.md)
-
-Tutorat et Appui PRG1
-- [Planning](../Tutorat_Appui.md)
-- [MS-Teams / code : oxjsoz1](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-
 ---
 > ## <a name="semaine_01"></a>SEMAINE 01 - 15.09.2025 - 21.09.2025 [⬆︎](readme.md#start)
 
