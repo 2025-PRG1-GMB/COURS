@@ -93,6 +93,7 @@
 
 ### Mardi
 - **Labo**
+  - GMB absent
 
 ### Jeudi
 - **Cours**

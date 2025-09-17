@@ -98,6 +98,7 @@
 
 ### Mardi
 - **Labo**
+  - GMB absent
 
 ### Mercredi
 - **Cours**
