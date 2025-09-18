@@ -45,7 +45,9 @@
 
 ### Jeudi
 - **Cours**
+  - chap 2 => slide ...
 - **Labo**
+    Labo-02 Installation CLion
 
 ### Vendredi
 - **Cours**
