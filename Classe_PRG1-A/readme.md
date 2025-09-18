@@ -57,8 +57,8 @@
   - chap 2 => slide 46
 
 - **Labo**
-  - exercices chap 2 : 1.1 à 3.3 correction 
-  - installation CLion
+  - exercices chap 2 : 1.1 à 3.3 corrections
+  - Labo-02 - installation CLion
   - exercices chap 2 : 3.4 à 3.8
 
 ---
@@ -66,6 +66,8 @@
 
 ### Lundi
 - **Cours**
+  - correction exercices chap 2 : 3.4 à 3.8
+  - chap 2 => slide ..
 
 ### Mardi
 - **Labo**
