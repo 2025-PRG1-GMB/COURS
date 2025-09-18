@@ -54,7 +54,12 @@
 
 ### Jeudi
 - **Cours**
+  - chap 2 => slide 46
+
 - **Labo**
+  - exercices chap 2 : 1.1 à 3.3 correction 
+  - installation CLion
+  - exercices chap 2 : 3.4 à 3.8
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
