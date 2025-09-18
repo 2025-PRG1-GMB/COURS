@@ -45,9 +45,11 @@
 
 ### Jeudi
 - **Cours**
-  - chap 2 => slide ...
+  - chap 2 => slide 31
 - **Labo**
-    Labo-02 Installation CLion
+  - Exercices chap 1 à faire
+  - Exercices chap 2 1.1 à 2.1 à faire
+  - Labo-02 Installation CLion
 
 ### Vendredi
 - **Cours**
