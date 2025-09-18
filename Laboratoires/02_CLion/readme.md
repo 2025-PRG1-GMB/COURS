@@ -7,7 +7,7 @@ Etre capable de compiler un programme C++
 1. Installer et configurer CLion
 
 	- [CLion download](https://www.jetbrains.com/clion/download)
-	- [Guide d'installation et CLion](Installation CLion.pdf)
+	- [Guide d'installation et CLion](InstallationCLion.pdf)
 
 2. Corriger et compiler ce code
 
