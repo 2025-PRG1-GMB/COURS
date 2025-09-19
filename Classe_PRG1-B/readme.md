@@ -47,14 +47,18 @@
 - **Cours**
   - chap 2 => slide 31
 - **Labo**
-  - Exercices chap 1 à faire
-  - Exercices chap 2 1.1 à 2.1 à faire
+  - Exercices chap 1 : à faire
+  - Exercices chap 2 : 1.1 à 2.1 à faire
   - Labo-02 Installation CLion
 
 ### Vendredi
 - **Cours**
+  - Correction exercices chap 1
+  - Correction exercices chap 2 : 1.1 à 2.1
+  - chap 2 => fin
 - **Labo**
-
+  - pseudo code
+  - Exercices chap 2 : 2.2 à 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
 

@@ -40,6 +40,6 @@ int main () {
     cout << (10.0/3.0 == 3.33333333) << endl;
 
     42;
-
+    int toto;
    return EXIT_SUCCESS;
 }
