@@ -65,12 +65,12 @@
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
-  - correction exercices chap 2 : 3.4 à 3.8
-  - chap 2 => slide ..
+- **Cours** => CONGE
 
 ### Mardi
 - **Labo**
+  - correction exercices chap 2 : 3.4 à 3.8
+  - chap 2 => slide ..
 
 ### Mercredi
 - **Cours**
