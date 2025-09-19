@@ -58,7 +58,7 @@
   - chap 2 => slide 49
 - **Labo**
   - pseudo code
-  - Exercices chap 2 : 02.02 à 03.xx pour mardi
+  - Exercices chap 2 : 03.xx pour mardi
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
