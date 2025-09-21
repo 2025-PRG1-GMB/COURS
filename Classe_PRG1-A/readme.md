@@ -80,16 +80,16 @@
   - exercices chap 3 :
 
 - **Labo**
-  - présentation git et processus de dépot de laboratotoire
-  - Labo-03
-
-### Jeudi
-- **Cours**
   - correction exercices chap 3 : 
   - chap 3 => slide ..
   - exercices chap 3 :
 
-- **Labo**
+### Jeudi
+- **Cours** (GMB absent)
+  - présentation git et processus de dépot de laboratotoire
+  - Labo-03
+
+- **Labo** (GMB absent)
   - Labo-03
 
 ---
