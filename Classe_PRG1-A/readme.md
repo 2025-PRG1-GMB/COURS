@@ -65,20 +65,32 @@
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours** => CONGE
+- **CONGE**
 
 ### Mardi
 - **Labo**
   - correction exercices chap 2 : 3.4 à 3.8
-  - chap 2 => slide ..
+  - chap 2 => slide fin
+  - exercices chap 2 à terminer
 
 ### Mercredi
 - **Cours**
+  - correction exercices chap 2 : 3.4 à 3.8
+  - chap 3 => slide ..
+  - exercices chap 3 :
+
 - **Labo**
+  - présentation git et processus de dépot de laboratotoire
+  - Labo-03
 
 ### Jeudi
 - **Cours**
+  - correction exercices chap 3 : 
+  - chap 3 => slide ..
+  - exercices chap 3 :
+
 - **Labo**
+  - Labo-03
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 29.09.2025 - 05.10.2025 [⬆︎](readme.md#start)
