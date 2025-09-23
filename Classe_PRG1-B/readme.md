@@ -69,7 +69,7 @@
 ### Mardi
 - **Labo**
   - Correction exercices chap 2 : 02.02 à 03.xx
-  - chap 2 => slide fin
+  - chap 2 => slide 55
   - exercices chap 2 à terminer
 
 ### Jeudi

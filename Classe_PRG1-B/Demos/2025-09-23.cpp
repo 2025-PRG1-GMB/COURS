@@ -26,12 +26,48 @@ int main () {
    int* ptr1 = &Z;
    int* ptr2 = &Z;
 
+   /*
    int* autrePTR = ptr1 + ptr1;
    int* autrePTR1 = &Z + ptr1;
+   */
 
    cout << (void*)"bonjour a toutes et tous" << endl;
    cout << (const char*)(void*)"bonjour a toutes et tous" << endl;
 
+   // ---------
+   // pointeurs
+   // ---------
+
+   int var = 12;
+   int var2 = 1;
+
+   cout << "contenu de var : " <<  var << endl;
+   cout << "adresse de var : " << &var << endl;
+
+   int* pointeur = &var;
+
+   cout << "contenu de ptr : " <<  pointeur << endl;
+   cout << "adresse de ptr : " << &pointeur << endl;
+   cout << "valeur pointee : " << *pointeur << endl;
+
+   pointeur = & var2;
+
+   cout << "contenu de ptr : " <<  pointeur << endl;
+   cout << "adresse de ptr : " << &pointeur << endl;
+   cout << "valeur pointee : " << *pointeur << endl;
+
+   *pointeur = 15;
+
+   cout << var2 << endl;
+
+   const int cste = 21;
+//    pointeur = & cste;   // accès en RW sur une constante
+
+   const int* pointeur_sur_const = &cste;
+   cout << *pointeur_sur_const << endl;
+
+   pointeur_sur_const = &var;
+   *pointeur_sur_const = 23;
 
    return EXIT_SUCCESS;
 }
