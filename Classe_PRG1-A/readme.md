@@ -70,12 +70,13 @@
 ### Mardi
 - **Labo**
   - correction exercices chap 2 : 3.4 à 3.8
-  - chap 2 => slide fin
+  - chap 2 => slide 53
   - exercices chap 2 à terminer
 
 ### Mercredi
 - **Cours**
-  - correction exercices chap 2 : 3.4 à 3.8
+  - correction exercices chap 2
+  - chap 2 => fin
   - chap 3 => slide ..
   - exercices chap 3 :
 
