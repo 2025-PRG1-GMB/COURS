@@ -50,16 +50,16 @@
  
 - **Labo**
     - [Labo-01 - Suite de Wallis](https://github.com/2025-PRG1-GMB/COURS/tree/main/Laboratoires/01_Wallis_pseudo)
-    - exercices chap 2 : 1.1 à 3.3 à faire
+    - exercices chap 2 : 01-01 à 03-03 à faire
 
 ### Jeudi
 - **Cours**
   - chap 2 => slide 46
 
 - **Labo**
-  - exercices chap 2 : 1.1 à 3.3 corrections
+  - exercices chap 2 : 01-01 à 03-03 corrections
   - Labo-02 - installation CLion
-  - exercices chap 2 : 3.4 à 3.8
+  - exercices chap 2 : 03-04 à 03-08
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 22.09.2025 - 28.09.2025 [⬆︎](readme.md#start)
@@ -69,7 +69,7 @@
 
 ### Mardi
 - **Labo**
-  - correction exercices chap 2 : 3.4 à 3.8
+  - correction exercices chap 2 : 03-04 à 03-08
   - chap 2 => slide 53
   - exercices chap 2 à terminer
 
@@ -77,13 +77,9 @@
 - **Cours**
   - correction exercices chap 2
   - chap 2 => fin
-  - chap 3 => slide ..
-  - exercices chap 3 :
 
 - **Labo**
-  - correction exercices chap 3 : 
-  - chap 3 => slide ..
-  - exercices chap 3 :
+  - chap 3 => slide 12
 
 ### Jeudi
 - **Cours** (GMB absent)
@@ -92,6 +88,7 @@
 
 - **Labo** (GMB absent)
   - Labo-03
+  - exercices chap 3 : 01-01, 01-08, 01-10, 01-11
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 29.09.2025 - 05.10.2025 [⬆︎](readme.md#start)

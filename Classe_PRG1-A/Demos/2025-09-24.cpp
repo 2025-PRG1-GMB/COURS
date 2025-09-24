@@ -48,5 +48,19 @@ int main () {
    plus1_par_reference(variable);
    cout << "variable après   : " << variable          << endl;
 
+   cout << "bonjour"
+        << "à toute"       // pour les dames
+        << " et à tous";   // .. et les messieurs
+
+
+   /*
+   si (condition1)
+      faire ça
+   sinon si (condition2)
+      faire ça
+   sinon si (condition3)
+      faire ça
+
+   */
    return EXIT_SUCCESS;
 }
