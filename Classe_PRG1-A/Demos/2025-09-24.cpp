@@ -5,9 +5,16 @@
 
 using namespace std;
 
-void plus1 (int* adresse) {
+// fonction en C
+void plus1_par_adresse (int* adresse) {
    *adresse = *adresse + 1;
    cout << "dans plus1       : " << *adresse          << endl;
+}
+
+// fonction en C++
+void plus1_par_reference (int& param) {
+   param = param + 1;
+   cout << "dans plus1       : " << param          << endl;
 }
 
 int main () {
@@ -34,7 +41,11 @@ int main () {
 
    int variable = 2;
    cout << "variable avant   : " << variable          << endl;
-   plus1(&variable);
+   plus1_par_adresse(&variable);
+   cout << "variable après   : " << variable          << endl;
+
+   cout << "variable avant   : " << variable          << endl;
+   plus1_par_reference(variable);
    cout << "variable après   : " << variable          << endl;
 
    return EXIT_SUCCESS;
