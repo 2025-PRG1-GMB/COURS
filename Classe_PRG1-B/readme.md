@@ -75,8 +75,7 @@
 ### Jeudi
 - **Cours**
   - correction exercices chap 2
-  - chap 3 => slide ..
-  - exercices chap 3 :
+  - chap 2 => slide fin
 
 - **Labo**
   - présentation git et processus de dépot de laboratotoire
@@ -84,7 +83,7 @@
 
 ### Vendredi
 - **Cours**
-  - correction exercices chap 3 : 
+  - correction exercices chap 2 : 05-01
   - chap 3 => slide ..
   - exercices chap 3 :
 
