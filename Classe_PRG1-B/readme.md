@@ -87,8 +87,8 @@
 - **Cours**
   - Annoncer TE : semaine 5, 10 et 14
   - correction exercices chap 2 : 05-01
-  - chap 3 => slide ..
-  - exercices chap 3 :
+  - chap 3 => slide 13
+  - exercices chap 3 : 01-01 à 01-03
 
 - **Labo**
   - Labo-03
