@@ -35,6 +35,8 @@
     - **MS-Teams**
         - inscription => 45h2rd2
         - présentation / objectifs
+    - **Socrative**
+      - https://api.socrative.com/rc/ug8ZsN
 
     - chap 0 : terminé
 
