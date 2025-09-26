@@ -5,59 +5,35 @@
 
 using namespace std;
 
-//
-void plus1Ptr(int* adr) {
-   *adr = *adr + 1;
-   cout << "var dedans   : " << *adr << endl;
-}
-
-void plus1Ref(int& param) {
-   param = param + 1;
-   cout << "var dedans   : " << param << endl;
-}
-
 int main () {
-
-   int var = 12;
-   cout << "valeur de var  : " <<   var << endl;
-   cout << "adresse de var : " <<  &var << endl;
-
 /*
+   int valeur;
+   cin >> valeur;
+   cout << (valeur < 10 ? "oui" : 'a') << endl;
+
+   if (d == 0.) {
+      r = 1e100;     // d==0
+   } else {
+      r = n/d;       // d!=0
+   }
+
+   //            vrai    faux
+   r = d == 0. ? 1e100 : n/d;
+   r = d       ? n/d : 1e100 ;
 
 
+   if (a != 0)    // a != 0 => boolean
+      cout << "oui";
 
-*/
-   char car = 'a';
-   const char car2 = 'b';
+   if (a)         // a != 0 => boolean
+      cout << "oui";
+   */
 
-  const char* ptrCar = &car2;
-//   *ptrCar = 'b';
-//   ptrCar = &car2;
+   int a = 2, b=5, c=7;
+   // min(a, b)
+   cout << (a < b ? a : b) << endl;
 
-//   ptrCar = &var;
-
-   cout << "valeur de car     : " <<   car << endl;
-   cout << "adresse de car    : " <<  (const void*)&car << endl;
-
-   cout << "valeur de ptrCar  : " <<  (const void*)ptrCar << endl;
-   cout << "adresse de ptrCar : " <<  &ptrCar << endl;
-   cout << "valeur référencée : " <<  *ptrCar << endl;
-
-   cout << "var avant    : " << var << endl;
-   plus1Ptr(&var);
-   cout << "var apres    : " << var << endl;
-
-   cout << "var avant    : " << var << endl;
-   plus1Ref(var);
-   cout << "var apres    : " << var << endl;
-
-
-   const int& ref = var;
-   const char& refCar = car2;
-
-    cout << "courage .."         // commentaire
-         << "c'east bientot"
-         << " pause ...";
+   // min(a, b, c)
+   cout << (a < b ? a < c ? a : c : b < c ? b : c) << endl;
 
    return EXIT_SUCCESS;
-}
