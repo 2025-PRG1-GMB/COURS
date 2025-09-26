@@ -83,6 +83,7 @@
 
 ### Vendredi
 - **Cours**
+  - Annoncer TE : semaine 5, 10 et 14
   - correction exercices chap 2 : 05-01
   - chap 3 => slide ..
   - exercices chap 3 :
@@ -129,6 +130,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 1
 
 ### Mardi
 - **Labo**
@@ -214,6 +216,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 2
 
 ### Mardi
 - **Labo**
@@ -283,6 +286,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 3
 
 ### Mardi
 - **Labo**

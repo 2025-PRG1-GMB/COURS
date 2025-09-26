@@ -95,6 +95,7 @@
 
 ### Lundi
 - **Cours**
+  - Annoncer TE : semaine 5, 10 et 14
 
 ### Mardi
 - **Labo**
@@ -129,6 +130,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 1
 
 ### Mardi
 - **Labo**
@@ -214,6 +216,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 2
 
 ### Mardi
 - **Labo**
@@ -282,6 +285,7 @@
 
 ### Lundi
 - **Cours**
+  - TE no 3
 
 ### Mardi
 - **Labo**
