@@ -86,10 +86,10 @@
 ### Jeudi
 - **Cours** (GMB absent)
   - présentation git et processus de dépot de laboratotoire
-  - Labo-03
+  - Labo-03 - BMI (git)
 
 - **Labo** (GMB absent)
-  - Labo-03
+  - Labo-03 - BMI (git)
   - exercices chap 3 : 01-01, 01-08, 01-10, 01-11
 
 ---
@@ -97,18 +97,31 @@
 
 ### Lundi
 - **Cours**
-  - Annoncer TE : semaine 5, 10 et 14
+  - Annoncer TE : semaine 5, 10 et 14 + modalités
+  - Corrections exercices chap 3 : 01-01, 01-08, 01-10, 01-11
+  - chap 3 => slide ..
 
 ### Mardi
 - **Labo**
+  - Exercices chap 3 : 
 
 ### Mercredi
 - **Cours**
+  - chap 3 => slide ..
+  - Test EVAL
+  - Exercices chap 3 : 
+
 - **Labo**
+  - Utilisation IA dans les laboratoires
+  - Labo-04 - Nbre Premiers
 
 ### Jeudi
 - **Cours**
+  - chap 3 => slide ..
+  - Exercices chap 3 : 
+
 - **Labo**
+  - Labo-04 - Nbre Premiers
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 06.10.2025 - 12.10.2025 [⬆︎](readme.md#start)

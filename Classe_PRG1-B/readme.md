@@ -81,34 +81,47 @@
 
 - **Labo**
   - présentation git et processus de dépot de laboratotoire
-  - Labo-03
+  - Labo-03 - BMI (git)
 
 ### Vendredi
 - **Cours**
-  - Annoncer TE : semaine 5, 10 et 14
+  - Annoncer TE : semaine 5, 10 et 14 et modalités
   - correction exercices chap 2 : 05-01
   - chap 3 => slide 13
   - exercices chap 3 : 01-01 à 01-03
 
 - **Labo**
-  - Labo-03
+  - Labo-03 - BMI (git)
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 29.09.2025 - 05.10.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+  - corrections exercices chap 3 : 01-01 à 01-03
+  - chap 3 => slide ..
 
 ### Mardi
 - **Labo**
+  - Exercices chap 3 : 
 
 ### Jeudi
 - **Cours**
+  - chap 3 => slide ..
+  - Test EVAL
+  - Exercices chap 3 : 
+
 - **Labo**
+  - Utilisation IA dans les laboratoires
+  - Labo-04 - Nbre Premiers
 
 ### Vendredi
 - **Cours**
+  - chap 3 => slide ..
+  - Exercices chap 3 : 
+
 - **Labo**
+  - Labo-04 - Nbre Premiers
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 06.10.2025 - 12.10.2025 [⬆︎](readme.md#start)
