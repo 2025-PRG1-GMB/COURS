@@ -99,11 +99,11 @@
 ### Lundi
 - **Cours**
   - corrections exercices chap 3 : 01-01 à 01-03
-  - chap 3 => slide ..
+  - chap 3 => slide 31
 
 ### Mardi
 - **Labo**
-  - Exercices chap 3 : 
+  - Exercices chap 3 : 02-01 à 02-13
 
 ### Jeudi
 - **Cours**
