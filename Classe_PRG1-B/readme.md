@@ -108,7 +108,7 @@
 ### Jeudi
 - **Cours**
   - chap 3 => slide ..
-  - Test EVAL
+  - [Test EVAL](https://eval.iict-heig-vd.in/users/evaluations/cmg56zsnm00xo9wy247xs4bvv)
   - Exercices chap 3 : 
 
 - **Labo**
