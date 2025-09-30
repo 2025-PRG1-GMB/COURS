@@ -99,11 +99,11 @@
 - **Cours**
   - Annoncer TE : semaine 5, 10 et 14 + modalités
   - Corrections exercices chap 3 : 01-01, 01-08, 01-10, 01-11
-  - chap 3 => slide 16
+  - chap 3 => slide 19
 
 ### Mardi
 - **Labo**
-  - chap 3 => slide 16
+  - chap 3 => slide 30
   - Exercices chap 3
     - 01-* à terminer
     - 02-01 à 02-14 à faire
