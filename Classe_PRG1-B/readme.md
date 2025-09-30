@@ -104,7 +104,7 @@
 ### Mardi
 - **Labo**
   - [Test EVAL](https://eval.iict-heig-vd.in/users/evaluations/cmg56zsnm00xo9wy247xs4bvv)
-  - Exercices chap 3 : 02-01 à 02-13
+  - Exercices chap 3 : 01-04 à 01-11 et 02-01 à 02-13
 
 ### Jeudi
 - **Cours**
