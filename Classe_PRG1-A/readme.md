@@ -103,13 +103,17 @@
 
 ### Mardi
 - **Labo**
-  - Exercices chap 3 : 
+  - chap 3 => slide 16
+  - Exercices chap 3
+    - 01-* à terminer
+    - 02-01 à 02-14 à faire
 
 ### Mercredi
 - **Cours**
+  - corrections exercices chap 3 : 01-*
   - chap 3 => slide ..
-  - Test EVAL
-  - Exercices chap 3 : 
+  - [Test EVAL](https://eval.iict-heig-vd.in/users/evaluations/cmg56ws2400wj9wy2xre24y8e)
+  - Exercices chap 3 : 02-01 à 02-14 à terminer
 
 - **Labo**
   - Utilisation IA dans les laboratoires

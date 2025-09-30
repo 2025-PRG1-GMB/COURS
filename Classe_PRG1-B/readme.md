@@ -99,16 +99,16 @@
 ### Lundi
 - **Cours**
   - corrections exercices chap 3 : 01-01 à 01-03
-  - chap 3 => slide ..
+  - chap 3 => slide 31
 
 ### Mardi
 - **Labo**
-  - Exercices chap 3 : 
+  - Exercices chap 3 : 02-01 à 02-13
 
 ### Jeudi
 - **Cours**
   - chap 3 => slide ..
-  - Test EVAL
+  - [Test EVAL](https://eval.iict-heig-vd.in/users/evaluations/cmg56zsnm00xo9wy247xs4bvv)
   - Exercices chap 3 : 
 
 - **Labo**
@@ -144,7 +144,7 @@
 > ## <a name="semaine_05"></a>SEMAINE 05 - 13.10.2025 - 19.10.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours 16h30 - G03**
   - TE no 1
 
 ### Mardi
@@ -230,7 +230,7 @@
 > ## <a name="semaine_10"></a>SEMAINE 10 - 24.11.2025 - 30.11.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours 16h30 - G03**
   - TE no 2
 
 ### Mardi
@@ -247,7 +247,6 @@
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 01.12.2025 - 07.12.2025 [⬆︎](readme.md#start)
 
-### Lundi
 ### Lundi
 - **Cours**
 
@@ -300,7 +299,7 @@
 > ## <a name="semaine_14"></a>SEMAINE 14 - 05.01.2026 - 11.01.2026 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours 16h30 - G03**
   - TE no 3
 
 ### Mardi
