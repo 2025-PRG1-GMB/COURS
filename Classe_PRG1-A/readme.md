@@ -32,7 +32,7 @@
         - https://github.com/2025-PRG1-GMB/COURS
         - https://github.com/HEIGVD-PRG1/PRG1_Recueil_Exercices
     - **MS-Teams**
-        - inscription => 45h2rd2
+        - inscription => 53r51w8
         - présentation / objectifs
   - **Socrative**
     - https://api.socrative.com/rc/HHp46R
