@@ -108,6 +108,7 @@
 
 ### Jeudi
 - **Cours**
+  - Correction Exercices chap 3 : => 02-09
   - chap 3 => slide 49
   - Exercices chap 3 : à avancer
 
