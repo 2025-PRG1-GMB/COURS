@@ -108,8 +108,8 @@
 
 ### Jeudi
 - **Cours**
-  - chap 3 => slide ..
-  - Exercices chap 3 : 
+  - chap 3 => slide 49
+  - Exercices chap 3 : à avancer
 
 - **Labo**
   - Utilisation IA dans les laboratoires
@@ -117,8 +117,8 @@
 
 ### Vendredi
 - **Cours**
-  - chap 3 => slide ..
-  - Exercices chap 3 : 
+  - chap 3 => slide fin
+  - Exercices chap 3 : à terminer
 
 - **Labo**
   - Labo-04 - Nbre Premiers
