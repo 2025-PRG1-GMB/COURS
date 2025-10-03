@@ -119,10 +119,11 @@
 ### Vendredi
 - **Cours**
   - chap 3 => slide fin
-  - Exercices chap 3 : à terminer
+  - chap 4 => slide 30
 
 - **Labo**
   - Labo-04 - Nbre Premiers
+  - Exercices chap 3 : à terminer
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 06.10.2025 - 12.10.2025 [⬆︎](readme.md#start)
