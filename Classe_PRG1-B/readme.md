@@ -131,8 +131,8 @@
 ### Lundi
 - **Cours**
   - corrections exercices chap 3
-  - chap 4 => ..
-  - Exercices chap 4 : 
+  - chap 4 => 36
+  - Exercices chap 4 : 02-* et 03-*
 
 ### Mardi (GMB absent)
 - **Labo**
