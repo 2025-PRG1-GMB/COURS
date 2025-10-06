@@ -133,7 +133,6 @@
 ### Lundi
 - **Cours**
   - corrections exercices chap 3
-  - chap 3 : terminé ?
   - chap 4 => ..
   - Exercices chap 4 : 
 
