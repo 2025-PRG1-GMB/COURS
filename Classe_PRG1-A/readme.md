@@ -132,17 +132,31 @@
 
 ### Lundi
 - **Cours**
+  - corrections exercices chap 3
+  - chap 3 : terminé ?
+  - chap 4 => ..
+  - Exercices chap 4 : 
 
 ### Mardi (GMB absent)
 - **Labo**
+  - Labo-05 Montant (en groupe)
 
 ### Mercredi
 - **Cours**
+  - chap 4 => ..
+  - Exercices chap 4 : 
+
 - **Labo**
+  - Labo-05 Montant (en groupe)
 
 ### Jeudi
 - **Cours**
+  - chap 4 => fin
+  - Exercices chap 4 : 
+
 - **Labo**
+  - Labo-05 Montant (en groupe)
+  - Exercices chap 4 : 
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 13.10.2025 - 19.10.2025 [⬆︎](readme.md#start)
