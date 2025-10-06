@@ -121,7 +121,7 @@
 
 ### Jeudi
 - **Cours**
-  - chap 3 => slide 40
+  - chap 3 => slide terminé
   - Exercices chap 3 : à terminer pour lundi 
 
 - **Labo**
