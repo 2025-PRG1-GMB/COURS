@@ -142,8 +142,8 @@
 
 ### Mercredi
 - **Cours**
-  - chap 4 => ..
-  - Exercices chap 4 : 
+  - chap 4 => 36
+  - Exercices chap 4 : à avancer
 
 - **Labo**
   - Labo-05 Montant (en groupe)
