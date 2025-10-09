@@ -10,6 +10,9 @@ int& plusPetit(int& a, int& b) {
 }
 
 int main () {
+
+   cout << (void*)&plusPetit;
+   cout << "---" << endl;
    int a = 3;
    int b = 5;
    cout << plusPetit(a, b);
