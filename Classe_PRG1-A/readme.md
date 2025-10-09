@@ -150,7 +150,7 @@
 
 ### Jeudi
 - **Cours**
-  - chap 4 => fin
+  - chap 4 => 45
   - Exercices chap 4 : 
 
 - **Labo**
