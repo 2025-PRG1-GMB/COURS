@@ -140,8 +140,9 @@
 
 ### Jeudi
 - **Cours**
-  - chap 4 => ..
-  - Exercices chap 4 : 
+  - chap 4 => 44
+  - Exercices chap 4 : corrigé => 02b-03
+  - Exercices chap 4 : avancer
 
 - **Labo**
   - Labo-05 Montant (en groupe)
