@@ -149,7 +149,7 @@
 
 ### Vendredi
 - **Cours**
-  - chap 4 => fin
+  - chap 4 => slide 62
   - Exercices chap 4 : 
 
 - **Labo**
