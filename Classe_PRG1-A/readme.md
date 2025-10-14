@@ -167,12 +167,12 @@
 ### Mardi
 - **Labo**
   - feedback TE no 1
-  - chap 4 => à terminer
-  - Exercices chap 4 : à terminer
-  - chap 5 => ... 
+  - chap 4 => slide 62
 
 ### Mercredi
 - **Cours**
+  - chap 4 => slide à terminer
+  - Exercices chap 4 : à terminer
   - chap 5 => ... 
 
 - **Labo**
