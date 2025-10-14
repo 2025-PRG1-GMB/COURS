@@ -133,7 +133,7 @@
 ### Lundi
 - **Cours**
   - corrections exercices chap 3
-  - chap 4 => 19
+  - chap 4 => slide 19
   - Exercices chap 4 : 02-*
 
 ### Mardi (GMB absent)
@@ -142,7 +142,7 @@
 
 ### Mercredi
 - **Cours**
-  - chap 4 => 36
+  - chap 4 => slide 36
   - Exercices chap 4 : à avancer
 
 - **Labo**
@@ -150,7 +150,7 @@
 
 ### Jeudi
 - **Cours**
-  - chap 4 => 45
+  - chap 4 => slide 45
   - Exercices chap 4 : 
 
 - **Labo**
@@ -166,14 +166,25 @@
 
 ### Mardi
 - **Labo**
+  - chap 4 => à terminer
+  - Exercices chap 4 : à terminer
+  - chap 5 => ... 
 
 ### Mercredi
 - **Cours**
+  - chap 5 => ... 
+
 - **Labo**
+  - Exercices chap 5 :
 
 ### Jeudi
 - **Cours**
+  - chap 5 => à terminer
+  - chap 6 => ...
+
 - **Labo**
+  - Exercices chap 5 : à terminer
+  - Labo à définir
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 27.10.2025 - 02.11.2025 [⬆︎](readme.md#start)
@@ -247,7 +258,7 @@
 > ## <a name="semaine_10"></a>SEMAINE 10 - 24.11.2025 - 30.11.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours - C23**
   - TE no 2
 
 ### Mardi
@@ -316,8 +327,8 @@
 > ## <a name="semaine_14"></a>SEMAINE 14 - 05.01.2026 - 11.01.2026 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
-  - TE no 3
+- **Cours - C23**
+  - TE no 2
 
 ### Mardi
 - **Labo**
