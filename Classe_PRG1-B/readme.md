@@ -167,7 +167,6 @@
   - feedback TE no 1
   - chap 4 => à terminer
   - Exercices chap 4 : à terminer
-  - chap 5 => ... 
 
 ### Jeudi
 - **Cours**

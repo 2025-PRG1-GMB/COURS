@@ -173,7 +173,7 @@
 - **Cours**
   - chap 4 => slide à terminer
   - Exercices chap 4 : à terminer
-  - chap 5 => ... 
+  - chap 5 => slide 16
 
 - **Labo**
   - Exercices chap 5 :
