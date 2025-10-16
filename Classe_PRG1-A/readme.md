@@ -176,16 +176,15 @@
   - chap 5 => slide 16
 
 - **Labo**
-  - Exercices chap 5 :
+  - Exercices chap 5 : 01-*, 02-01
 
 ### Jeudi
 - **Cours**
-  - chap 5 => à terminer
-  - chap 6 => ...
+  - chap 5 => terminé
 
 - **Labo**
   - Exercices chap 5 : à terminer
-  - Labo à définir
+  - Exercices chap 5 : 07-01 fait et corrigé en classe
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 27.10.2025 - 02.11.2025 [⬆︎](readme.md#start)
