@@ -49,6 +49,11 @@ bool write_file(const string& nom, int mode) {
       file << message << endl;
    } while (true);
 
+   string message;
+   while (getline(cin, message), message.empty()) {
+      file << message << endl;
+   }
+
    file.close();
    return true;
 }
