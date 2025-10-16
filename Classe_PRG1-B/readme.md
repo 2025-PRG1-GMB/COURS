@@ -170,19 +170,17 @@
 
 ### Jeudi
 - **Cours**
-  - chap 5 => ... 
+  - chap 5 => slide 37
 
 - **Labo**
-  - Exercices chap 5 :
+  - Exercices chap 5 : 01* et 02* à terminer
 
 ### Vendredi
 - **Cours**
   - chap 5 => à terminer
-  - chap 6 => ...
 
 - **Labo**
   - Exercices chap 5 : à terminer
-  - Labo à définir
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 27.10.2025 - 02.11.2025 [⬆︎](readme.md#start)
