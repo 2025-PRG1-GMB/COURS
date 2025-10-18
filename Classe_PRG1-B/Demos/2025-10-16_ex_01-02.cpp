@@ -14,10 +14,12 @@ bool read_file (const string& nom);
 //----------------------------------------------------
 int main () {
 
-   if (write_file("../test.txt"))
+   if (write_file("../toto/test.txt"))
       cout << "fichier ecrit correctement" << endl;
-   else
+   else {
       cout << "pas pu écrire le fichier" << endl;
+      return EXIT_FAILURE;
+   }
 
    if (not read_file("../test.txt"))
       cout << "pas pu écrire le fichier" << endl;
