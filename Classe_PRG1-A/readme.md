@@ -191,18 +191,27 @@
 
 ### Lundi
 - **Cours**
+   - Correction TE no 1
+   - chap 6 => ...
 
 ### Mardi
 - **Labo**
+   - chap 6 => ...
 
-### Mercredi
+### Mercredi (GMB absent)
 - **Cours**
+   - Labo 
+
 - **Labo**
+   - Labo 
 
 ### Jeudi
 - **Cours**
-- **Labo**
+   - chap 6 => ...
 
+- **Labo**
+    - Exercices chap 6 : ...
+    
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 03.11.2025 - 09.11.2025 [⬆︎](readme.md#start)
 
