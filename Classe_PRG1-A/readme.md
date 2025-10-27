@@ -192,7 +192,7 @@
 ### Lundi
 - **Cours**
    - Correction TE no 1
-   - chap 6 => ...
+   - chap 6 => slide 19
 
 ### Mardi
 - **Labo**
