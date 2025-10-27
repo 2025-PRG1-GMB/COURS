@@ -188,7 +188,8 @@
 ### Lundi
 - **Cours**
    - Correction TE no 1
-   - chap 6 => ...
+	   - vos questions de correction par email svp
+   - chap 6 => slide 10
 
 ### Mardi
 - **Labo**
