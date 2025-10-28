@@ -193,7 +193,8 @@
 
 ### Mardi
 - **Labo**
-   - chap 6 => ...
+   - chap 6 => slide ..
+   - exercices chap 6 : 01* et 02* pour jeudi
 
 ### Jeudi
 - **Cours**
