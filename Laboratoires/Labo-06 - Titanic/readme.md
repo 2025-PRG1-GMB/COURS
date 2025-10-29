@@ -44,6 +44,7 @@ continue [Y/N] :
 - on supppose que le fichier en lecture correspond à l'action souhaitée
 - prévoir une ou plusieurs librairies
 - [Morse Code Translator](https://morsedecoder.com/)
+- [Dictionnaire avec symboles](https://morsecode.world/international/morse2.html)
 - format des fichiers
 	- ne contient qu'une seule ligne à traiter
 	- fichier en clair : ne contient que des majuscules et des symboles
