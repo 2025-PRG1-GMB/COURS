@@ -10,9 +10,9 @@
 |6| Cannizzaro Théo| Dongmo Sarah|
 |7| Jegatheeswaran Jeroshan| Ragoubi Mouna|
 |8| Rusticoni Mathias| Zemzemi Mohamed|
-|9| Bosshart Thomas| Fischer Valentin|
+|9| Bosshart Thomas| Feuzet Russelle|
 |10| Diss Julien| Vaucher Eliott|
 |11| Berney Dylan| Tapsoba Steve|
 |12| Antunes Romain| Favre Adi|
 |13| Borcard Jessy| Szivós Márton|
-|14| Feuzet Russelle|
+|14| Fischer Valentin|
