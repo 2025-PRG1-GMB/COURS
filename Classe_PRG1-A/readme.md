@@ -208,10 +208,12 @@
 
 ### Jeudi
 - **Cours**
-   - chap 6 => ...
+   - chap 6 => fin
+   - 
 
 - **Labo**
-    - Exercices chap 6 : ...
+    - Exercices chap 6 : à terminer
+    - EVAL Labo-04 (exercices)
     
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 03.11.2025 - 09.11.2025 [⬆︎](readme.md#start)
