@@ -205,17 +205,18 @@
 
 ### Vendredi
 - **Cours**
-   - chap 6 => ...
+   - chap 6 => fin
 
 - **Labo**
-   - Exercices chap 6 : ...
+   - Feedback Labo-05
+   - Correction EVAL Labo-04 Nombre 1er
+   - Exercices chap 6 : 01* , 02-03, 03* , 04* pour lundi
 
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 03.11.2025 - 09.11.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
-   - Correction TE no 1
 
 ### Mardi
 - **Labo**
