@@ -241,7 +241,7 @@
     - chap 8 => slide
 
 - **Labo**
-    - Labo à définir
+    - Labo
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 10.11.2025 - 16.11.2025 [⬆︎](readme.md#start)
