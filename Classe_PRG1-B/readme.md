@@ -210,25 +210,36 @@
 - **Labo**
    - Feedback Labo-05
    - Correction EVAL Labo-04 Nombre 1er
-   - Exercices chap 6 : 01* , 02-03, 03* , 04* pour lundi
+    - Exercices chap 6 : à terminer
 
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 03.11.2025 - 09.11.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - Exercices chap 6 : revue et corrections
+    - chap 7 => slide 18
+    - exercices chap 7 : 01*
 
 ### Mardi
 - **Labo**
+    - exercices chap 7 : 01* et 02
 
 ### Jeudi
 - **Cours**
+    - chap 7 => fin
+    - exercices chap 7 : à terminer
+
 - **Labo**
+    - retour Labo-06 Montant
+    - exercices chap 7 : 01* et 02
 
 ### Vendredi
 - **Cours**
-- **Labo**
+    - chap 8 => slide
 
+- **Labo**
+    - Labo à définir
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 10.11.2025 - 16.11.2025 [⬆︎](readme.md#start)
 
