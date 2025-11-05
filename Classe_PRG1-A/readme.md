@@ -235,6 +235,7 @@
 
 - **Labo**
     - exercices chap 7 : à terminer
+    - chap 8 => 20
 
 ### Jeudi
 - **Cours**
