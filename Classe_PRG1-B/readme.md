@@ -231,7 +231,7 @@
     - exercices chap 7 : à terminer
 
 - **Labo**
-    - chap 8 => slide 
+    - chap 8 => slide 32
     - exercices chap 8
 
 ### Vendredi
