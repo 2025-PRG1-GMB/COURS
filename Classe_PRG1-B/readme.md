@@ -231,15 +231,15 @@
     - exercices chap 7 : à terminer
 
 - **Labo**
-    - retour Labo-06 Montant
-    - exercices chap 7 : 01* et 02
+    - chap 8 => slide 
+    - exercices chap 8
 
 ### Vendredi
 - **Cours**
     - chap 8 => slide
 
 - **Labo**
-    - Labo
+    - retour Labo-06 Montant
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 10.11.2025 - 16.11.2025 [⬆︎](readme.md#start)
