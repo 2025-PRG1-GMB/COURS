@@ -236,10 +236,11 @@
 
 ### Vendredi
 - **Cours**
-    - chap 8 => slide
+    - chap 8 => slide 40
 
 - **Labo**
     - retour Labo-06 Montant
+    - corrections Labo-06 Titanic
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 10.11.2025 - 16.11.2025 [⬆︎](readme.md#start)
