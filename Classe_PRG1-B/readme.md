@@ -247,6 +247,8 @@
 
 ### Lundi
 - **Cours**
+    - chap 8 => slide 48
+    - exercices chap 8 : à terminer
 
 ### Mardi
 - **Labo**
