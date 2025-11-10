@@ -2,10 +2,10 @@
 #include <cstdlib>
 
 using namespace std;
+const enum Jour {lundi=1, mardi, mercredi, jeudi, vendredi, samedi, dimanche};
 
 int main() {
 
-    enum Jour {lundi=1, mardi, mercredi, jeudi, vendredi, samedi, dimanche};
     cout << lundi       << endl;
     cout << mardi       << endl;
     cout << mercredi    << endl;
