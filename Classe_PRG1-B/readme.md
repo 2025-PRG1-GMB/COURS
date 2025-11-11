@@ -267,12 +267,12 @@
     - Labo-07
 
 ### Vendredi
-- **Cours**
+- **Labo - 13h00**
+    - Labo-07
+
+- **Cours - 14h45**
     - chap 9 => slide
     - correction exercices chap 9 :
-
-- **Labo**
-    - Labo-07
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 17.11.2025 - 23.11.2025 [⬆︎](readme.md#start)
