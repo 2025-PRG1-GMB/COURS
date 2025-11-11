@@ -257,8 +257,7 @@
 ### Mardi
 - **Labo**
     - correction exercices chap 8
-    - correction exercices chap 9 : 01*
-    - chap 9 => slide
+    - exercices chap 9 : 01*
 
 ### Mercredi
 - **Cours**
