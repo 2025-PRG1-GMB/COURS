@@ -247,21 +247,32 @@
 
 ### Lundi
 - **Cours**
-    - chap 8 => slide 48
+    - chap 8 => slide 48 (terminé)
     - exercices chap 8 : à terminer pour mardi
     - chap 9 => slide 21
     - exercices chap 9 : 01* à faire pour mardi
 
 ### Mardi
 - **Labo**
+    - correction exercices chap 8
+    - correction exercices chap 9 : 01*
+    - chap 9 => slide
 
 ### Jeudi
 - **Cours**
+    - chap 9 => slide ..
+    - correction exercices chap 9 :
+
 - **Labo**
+    - Labo-07
 
 ### Vendredi
 - **Cours**
+    - chap 9 => slide
+    - correction exercices chap 9 :
+
 - **Labo**
+    - Labo-07
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 17.11.2025 - 23.11.2025 [⬆︎](readme.md#start)
