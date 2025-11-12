@@ -2,7 +2,7 @@
 
 ### Correctement créer un repository pour vous et votre collègue de travail
 1. Rendez-vous sur le lien GitHub Classroom du Labo 6 de votre classe.
-- [Classe A](https://classroom.github.com/a/kFvc6O30)
+- [Classe A](https://classroom.github.com/a/V8KJ6C_2)
 2. **Une** des deux personnes **crée une équipe** en lui donnant comme nom vos **noms de famille.**
 3. L'autre personne recharge la page et clique sur l'équipe créée à l'étape 2 pour la rejoindre. **Ne vous trompez pas d'équipe !**
 4. Les deux membres de l'équipe ont maintenant accès au repository portant le nom de l'équipe.
