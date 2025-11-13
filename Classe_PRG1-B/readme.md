@@ -256,19 +256,18 @@
 - **Labo**
     - correction exercices chap 8
     - correction exercices chap 9 : 01*
-    - chap 9 => slide
+    - chap 9 => slide 22
 
 ### Jeudi
 - **Cours**
-    - chap 9 => slide ..
-    - correction exercices chap 9 :
+    - chap 9 => slide 40
 
 - **Labo**
-    - Labo-07
+    - Labo-07 StringAlign
 
 ### Vendredi
 - **Labo - 13h00**
-    - Labo-07
+    - Labo-07 StringAlign
 
 - **Cours - 14h45**
     - chap 9 => slide
