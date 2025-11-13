@@ -261,8 +261,8 @@
 
 ### Mercredi
 - **Cours**
-    - chap 9 => slide ..
-    - correction exercices chap 9 :
+    - correction exercices chap 9 : 01*
+    - chap 9 => slide 40
 
 - **Labo**
     - Labo-07
