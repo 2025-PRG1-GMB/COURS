@@ -269,8 +269,8 @@
     
 ### Jeudi
 - **Cours**
-    - chap 9 => slide
-    - correction exercices chap 9 :
+    - chap 9 => terminé
+    - correction exercices chap 9 : à terminer pour lundi
 
 - **Labo**
     - Labo-07
