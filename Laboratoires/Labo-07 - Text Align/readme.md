@@ -1,40 +1,25 @@
-## Text Align
-
-### Correctement créer un repository pour vous et votre collègue de travail
-1. Rendez-vous sur le lien GitHub Classroom du Labo 6 de votre classe.
-- [Classe A](https://classroom.github.com/a/V8KJ6C_2)
-2. **Une** des deux personnes **crée une équipe** en lui donnant comme nom vos **noms de famille.**
-3. L'autre personne recharge la page et clique sur l'équipe créée à l'étape 2 pour la rejoindre. **Ne vous trompez pas d'équipe !**
-4. Les deux membres de l'équipe ont maintenant accès au repository portant le nom de l'équipe.
-5. Bon travail !
-
-### Objectif
-- fichier in/out
-- librairie
-
-### A faire
 ## Traitement de texte
 
 ### Objectif
 - manipulation de `string`
-- types énumérés `enum class`
+- types Ã©numÃ©rÃ©s `enum class`
 
-### À faire
-Écrire une **librairie** permettant de modifier une `string` de plusieurs lignes (séparées par des `\n`) de sorte à pouvoir obtenir ce même texte mis en page comme suit :
+### Ã€ faire
+Ã‰crire une **librairie** permettant de modifier une `string` de plusieurs lignes (sÃ©parÃ©es par des `\n`) de sorte Ã  pouvoir obtenir ce mÃªme texte mis en page comme suit :
 
-| Alignement   | Détails                          |
+| Alignement   | DÃ©tails                          |
 |--------------|:---------------------------------|
-| left         | le texte est aligné à gauche     | 
-| right        | le texte est aligné à droite     | 
-| center       | le texte est aligné au centre    | 
-| justify      | le texte est justifié            | 
+| left         | le texte est alignÃ© Ã  gauche     | 
+| right        | le texte est alignÃ© Ã  droite     | 
+| center       | le texte est alignÃ© au centre    | 
+| justify      | le texte est justifiÃ©            | 
 
-Une fonction `align` permet de choisir la mise en page souhaitée ainsi que la largeur du texte.  
-L'alignement par défaut est `left`.
+Une fonction `align` permet de choisir la mise en page souhaitÃ©e ainsi que la largeur du texte.  
+L'alignement par dÃ©faut est `left`.
 
-Les césures sont positionnées au dernier espace. À défaut, s’il n’y a aucun espace dans la largeur souhaitée, une césure est insérée dans le texte.
+Les cÃ©sures sont positionnÃ©es au dernier espace. Ã€ dÃ©faut, sâ€™il nâ€™y a aucun espace dans la largeur souhaitÃ©e, une cÃ©sure est insÃ©rÃ©e dans le texte.
 
-Le texte reçu est possiblement mal formaté, c’est-à-dire qu’il peut contenir plusieurs espaces entre les mots. Les espaces excédentaires sont supprimés après la mise en page.
+Le texte reÃ§u est possiblement mal formatÃ©, câ€™est-Ã -dire quâ€™il peut contenir plusieurs espaces entre les mots. Les espaces excÃ©dentaires sont supprimÃ©s aprÃ¨s la mise en page.
 
 ~~~cpp
 void align (std::string& text,
@@ -44,7 +29,7 @@ void align (std::string& text,
 
 ## Exemples
 
-La largeur choisie est 40 caractères. 
+La largeur choisie est 40 caractÃ¨res. 
 
 ### left
 ~~~
@@ -94,14 +79,14 @@ stopovers.  A  stopover may be technical
 transit  (with  a  change  of aircraft).
 ~~~
 
-Pour la création des textes, le programme principal invite l’utilisateur à choisir :
-- un fichier à charger
-- la mise en page souhaitée
-- la largeur du texte après mise en page
+Pour la crÃ©ation des textes, le programme principal invite lâ€™utilisateur Ã  choisir :
+- un fichier Ã  charger
+- la mise en page souhaitÃ©e
+- la largeur du texte aprÃ¨s mise en page
 
-Enfin, l’utilisateur peut :
-- sauvegarder le résultat dans un fichier, auquel cas il devra saisir le nom du fichier
-- … et recommencer avec un autre fichier à charger ou quitter le programme.
+Enfin, lâ€™utilisateur peut :
+- sauvegarder le rÃ©sultat dans un fichier, auquel cas il devra saisir le nom du fichier
+- â€¦ et recommencer avec un autre fichier Ã  charger ou quitter le programme.
 
 ~~~
 This programme ...
@@ -114,23 +99,23 @@ How to align this text
 your choice [1-4] : 2
 width [10-120] : 40
 
-... affichage du résultat
+... affichage du rÃ©sultat
 
 Save to file [Y/N] : n
 Start again [Y/N] : n
 ~~~
 
-### Complément
+### ComplÃ©ment
 
 - favoriser la manipulation de `string`
 - hormis les `string`, ne pas utiliser de tableau
-- ne pas utiliser les itérateurs
-- les saisies utilisateur sont totalement maîtrisées
+- ne pas utiliser les itÃ©rateurs
+- les saisies utilisateur sont totalement maÃ®trisÃ©es
 
-### Modalités
-- à faire **par groupe de 2 étudiants**
-- 4 périodes
+### ModalitÃ©s
+- Ã  faire **par groupe de 2 Ã©tudiants**
+- 4 pÃ©riodes
 
 ---
 
-Bon travail !
+Bon travail
