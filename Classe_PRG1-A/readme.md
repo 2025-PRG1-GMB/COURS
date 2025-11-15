@@ -280,17 +280,26 @@
 
 ### Lundi
 - **Cours**
+    - correction exercices chap 9
+    - chap 10 => slide ...
 
 ### Mardi
 - **Labo**
+    - TE no 2 à blanc 
 
 ### Mercredi
 - **Cours**
+    - chap 10 => slide ...
+
 - **Labo**
+    - Labo-08
 
 ### Jeudi
 - **Cours**
+    - chap 10 => slide ...
+
 - **Labo**
+    - Labo-08
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 24.11.2025 - 30.11.2025 [⬆︎](readme.md#start)
