@@ -265,7 +265,7 @@
     - chap 9 => slide 40
 
 - **Labo**
-    - Labo-07
+    - Labo-07 TextAlin
     
 ### Jeudi
 - **Cours**
@@ -273,7 +273,7 @@
     - correction exercices chap 9 : à terminer pour lundi
 
 - **Labo**
-    - Labo-07
+    - Labo-07 TextAlin
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 17.11.2025 - 23.11.2025 [⬆︎](readme.md#start)
@@ -285,18 +285,20 @@
 
 ### Mardi
 - **Labo**
-    - TE no 2 à blanc 
+    - Labo-07 TextAlin (2 périodes supplémentaires)
 
 ### Mercredi
 - **Cours**
     - chap 10 => slide ...
+    - exercices chap 10 : 
 
 - **Labo**
-    - Labo-08
+    - TE no 2 à blanc 
 
 ### Jeudi
 - **Cours**
     - chap 10 => slide ...
+    - exercices chap 10 : 
 
 - **Labo**
     - Labo-08

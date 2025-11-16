@@ -283,18 +283,20 @@
 
 ### Mardi
 - **Labo**
-    - TE no 2 à blanc 
+    - Labo-07 TextAlin (2 périodes supplémentaires)
 
 ### Jeudi
 - **Cours**
     - chap 10 => slide ...
+    - exercices chap 10 : 
 
 - **Labo**
-    - Labo-08
+    - TE no 2 à blanc 
 
 ### Vendredi
 - **Cours**
     - chap 10 => slide ...
+    - exercices chap 10 : 
 
 - **Labo**
     - Labo-08
