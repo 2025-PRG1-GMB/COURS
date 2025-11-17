@@ -281,7 +281,7 @@
 ### Lundi
 - **Cours**
     - correction exercices chap 9
-    - chap 10 => slide ...
+    - chap 10 => slide 14
 
 ### Mardi
 - **Labo**
