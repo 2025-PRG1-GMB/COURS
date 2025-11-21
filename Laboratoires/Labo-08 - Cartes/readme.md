@@ -1,6 +1,8 @@
 # Labo - Jeu de Cartes "La Bataille" 
 **Travail en groupe.**
 
+- [Classe A](https://classroom.github.com/a/3DJlyJkv)
+
 ## Objectif
 - Manipuler des tableaux pour stocker et gérer des données.
 - Utiliser des structures et des types énumérés.
