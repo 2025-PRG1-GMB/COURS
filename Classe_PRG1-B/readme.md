@@ -295,7 +295,7 @@
 
 ### Vendredi
 - **Cours**
-    - chap 10 => slide ...
+    - chap 10 => slide 34
     - exercices chap 10 : 
 
 - **Labo**
