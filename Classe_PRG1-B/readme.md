@@ -287,8 +287,8 @@
 
 ### Jeudi
 - **Cours**
-    - chap 10 => slide ...
-    - exercices chap 10 : 
+    - chap 10 => slide 15
+    - exercices chap 10 : 01* fait et corrigés
 
 - **Labo**
     - TE no 2 à blanc 
