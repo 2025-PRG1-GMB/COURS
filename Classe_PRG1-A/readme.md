@@ -297,11 +297,10 @@
 
 ### Jeudi
 - **Cours**
-    - chap 10 => slide ...
-    - exercices chap 10 : 
+    - chap 10 => slide 34
 
 - **Labo**
-    - Labo-08
+    - Labo-08 Cartes
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 24.11.2025 - 30.11.2025 [⬆︎](readme.md#start)
@@ -312,14 +311,23 @@
 
 ### Mardi
 - **Labo**
+    - Labo-08 Cartes
 
 ### Mercredi
 - **Cours**
+    - chap 10 => slide 50
+    - exercices chap 10 : 02* à faire
+
 - **Labo**
+    - Labo-08 Cartes
 
 ### Jeudi
 - **Cours**
+    - chap 10 => slide ..
+    - exercices chap 10 : 
+
 - **Labo**
+    - Labo-08 Cartes
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 01.12.2025 - 07.12.2025 [⬆︎](readme.md#start)
