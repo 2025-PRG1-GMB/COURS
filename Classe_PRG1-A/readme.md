@@ -323,7 +323,7 @@
 
 ### Jeudi
 - **Cours**
-    - chap 10 => slide ..
+    - chap 10 => slide 62
     - exercices chap 10 : 
 
 - **Labo**
