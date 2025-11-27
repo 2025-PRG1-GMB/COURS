@@ -314,7 +314,7 @@
 
 ### Jeudi
 - **Cours**
-    - chap 10 => slide ..
+    - chap 10 => slide 60
     - exercices chap 10 : 02* à faire
 
 - **Labo**
