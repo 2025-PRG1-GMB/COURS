@@ -325,16 +325,16 @@
     - Labo-08 Cartes
 
 - **Cours**
-    - chap 10 => slide ..
-    - exercices chap 10 : 
+    - chap 10 => slide fin
+    - exercices chap 10 : à terminer pour lundi
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 01.12.2025 - 07.12.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
-    - chap 10 => slide fin
-    - exercices chap 10 : à terminer
+    - exercices chap 10 : à corriger
+    - chap 12 => ...
 
 ### Mardi
 - **Cours**
