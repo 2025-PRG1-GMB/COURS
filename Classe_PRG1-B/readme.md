@@ -321,29 +321,37 @@
     - Labo-08 Cartes
 
 ### Vendredi
+- **Labo**
+    - Labo-08 Cartes
+
 - **Cours**
     - chap 10 => slide ..
     - exercices chap 10 : 
-
-- **Labo**
-    - Labo-08 Cartes
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 01.12.2025 - 07.12.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - chap 10 => slide fin
+    - exercices chap 10 : à terminer
 
 ### Mardi
-- **Labo**
+- **Cours**
+    - chap 11 => slide ..
+    - exercices chap 11 : 
 
 ### Jeudi
-- **Cours**
-- **Labo**
+- **Labo - 4 périodes**
+	- Labo-09
 
 ### Vendredi
-- **Cours**
 - **Labo**
+	- Labo-09
+
+- **Cours**
+    - chap 11 => slide ..
+    - exercices chap 11 : 
 
 ---
 > ## <a name="semaine_12"></a>SEMAINE 12 - 08.12.2025 - 14.12.2025 [⬆︎](readme.md#start)

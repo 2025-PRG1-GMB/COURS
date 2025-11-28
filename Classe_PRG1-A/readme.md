@@ -334,17 +334,25 @@
 
 ### Lundi
 - **Cours**
+    - chap 10 => slide fin
+    - exercices chap 10 : à terminer
 
-### Mardi
-- **Labo**
+### Mardi (cours)
+- **Cours**
+    - chap 11 => slide ..
+    - exercices chap 11 : 
 
 ### Mercredi (GMB absent)
-- **Cours**
-- **Labo**
+- **Labo - 4 périodes**
+	- Labo-09
 
 ### Jeudi
 - **Cours**
+    - chap 11 => slide ..
+    - exercices chap 11 : 
+
 - **Labo**
+	- Labo-09
 
 ---
 > ## <a name="semaine_12"></a>SEMAINE 12 - 08.12.2025 - 14.12.2025 [⬆︎](readme.md#start)
