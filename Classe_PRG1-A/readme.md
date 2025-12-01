@@ -335,8 +335,9 @@
 ### Lundi
 - **Cours**
     - chap 10 => slide fin
-    - chap 11 => slide 
     - exercices chap 10 : à terminer
+    - chap 11 => slide ...
+    - exercices chap 11 : 01-01 à 03-02 à faire
 
 ### Mardi (cours)
 - **Cours**
