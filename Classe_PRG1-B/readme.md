@@ -334,7 +334,8 @@
 ### Lundi
 - **Cours**
     - exercices chap 10 : à corriger
-    - chap 12 => ...
+    - chap 11 => 13
+    - exercices chap 11 : 01-01 à 03-02 à faire
 
 ### Mardi
 - **Cours**
