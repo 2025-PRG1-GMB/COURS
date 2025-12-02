@@ -341,8 +341,9 @@
 
 ### Mardi (cours)
 - **Cours**
-    - chap 11 => slide ..
-    - exercices chap 11 : 
+    - exercices chap 11 : correction 01-01 à 03-02
+    - chap 11 => slide 26
+    - exercices chap 11 : 03-02 à 03-05 à faire
 
 ### Mercredi (GMB absent)
 - **Labo - 4 périodes**
