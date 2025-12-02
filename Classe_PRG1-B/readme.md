@@ -339,8 +339,8 @@
 
 ### Mardi
 - **Cours**
-    - chap 11 => slide ..
-    - exercices chap 11 : 
+    - chap 11 => slide 26
+    - exercices chap 11 : 03-02 à 03-05 pour vendredi
 
 ### Jeudi
 - **Labo - 4 périodes**
