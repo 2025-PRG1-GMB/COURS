@@ -1,5 +1,8 @@
 ## Jeu de la Vie
 
+### GitHub Classroom
+[Classe A](https://classroom.github.com/a/sFfGTo3v)
+
 ### Objectif
 - Présentation du code aussi propre que possible
 - Décomposition en librairie(s) et sous-programmes réutilisable(s)
