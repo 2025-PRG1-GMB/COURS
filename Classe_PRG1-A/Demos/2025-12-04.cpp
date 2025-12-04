@@ -8,10 +8,9 @@ class Date;
 
 
 class Date {
-   Date& operator+ (int n, const Date& date) {return date;};  // date + 2
-   Date& operator+ (const Date& date, int n) {return *this;};  // 2 + date
-
    friend ostream& operator<< (ostream& os, const Date& date);
+   friend Date operator+ (int n,  Date date) {return date+=n;};  // n + date
+   friend Date operator+ (Date date, int n)  {return date+=n;};  // date + n
 
 public:
    // Date() : jour(1),    mois(1),    annee (1970)  {};
@@ -21,8 +20,8 @@ public:
    Date(const Date& autre) : jour(autre.jour), mois(autre.mois), annee (autre.annee) {cout << "Cc" << endl;}
    ~Date()                                                                           {cout << "D" << endl;}
 
-   Date& operator= (const Date& date);
-
+   Date& operator=  (const Date& date);
+   Date& operator+= (int n) {return *this;};
 
    operator string() const;
 
