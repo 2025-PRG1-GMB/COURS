@@ -1,11 +1,13 @@
 #include <iostream>
 #include <cstdlib>
+#include <vector>
 #include <array>
 using namespace std;
 
 class Point {
     friend ostream& operator << (ostream& os, const Point& point);
     friend void put (const Point& point);
+
 public:
     Point()                 : x(0), y(0)        { cout << "Point()"                 << endl; };
 //    Point() = default;
@@ -13,7 +15,9 @@ public:
     Point(const Point& p)   : x(p.x), y(p.y)    { cout << "Point(const Point& p)"   << endl; };
     ~Point()                                    { cout << "~Point()"                << endl; };
 
-    void afficher () const;
+
+    void aficher() const {  cout << "coucou"   << endl; };
+
     int getX () const {return x;};
     int getY () const {return y;};
 private:
