@@ -351,8 +351,9 @@
 
 ### Jeudi
 - **Cours**
-    - chap 11 => slide ..
-    - exercices chap 11 : 
+    - chap 11 => slide 37
+    - exercices chap 11 : 04-01 et 04-02
+	 - operator overload : https://en.cppreference.com/w/cpp/language/operators.html
 
 - **Labo**
 	- Labo-09
