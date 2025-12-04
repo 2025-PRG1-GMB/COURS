@@ -24,8 +24,8 @@ Le programme s'arrête de lui-même lorsqu'il n'y a plus de changement entre 2 g
 
 L’affichage sera fait en utilisant les symboles
 
-- O cellule vide
-- X cellule occupée
+- . pour représenter une cellule vide
+- X pour représenter une cellule occupée
 
 ### Complément
 
