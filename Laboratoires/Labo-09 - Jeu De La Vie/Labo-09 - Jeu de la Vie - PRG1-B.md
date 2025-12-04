@@ -10,10 +10,10 @@
 | 6 | Bossel Emeline | Pelerieau Thomas |
 | 7 | Vaucher Eliott | Maraldi Kenzo |
 | 8 | Rusticoni Mathias | Cannizzaro Théo |
-| 9 | Borcard Jessy | Bosshart Thomas |
+| 9 | Borcard Jessy | Berney Dylan | **
 | 10 | Szivós Márton | Vienet Bastien |
 | 11 | Tapsoba Steve | Favre Adi |
-| 12 | Antunes Romain | Berney Dylan |
+| 12 | Antunes Romain | Bosshart Thomas | **
 | 13 | Maendly Gilles | Ragoubi Mouna |
 
 Generated on 2025-11-28 12:58:51
