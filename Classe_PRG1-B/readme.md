@@ -351,7 +351,7 @@
 	- Labo-09
 
 - **Cours**
-    - chap 11 => slide ..
+    - chap 11 => slide 42
     - exercices chap 11 : 
 
 ---
@@ -364,8 +364,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
 - **Labo**
+	- fondue 🫕
+
+- **Cours**
 
 ### Vendredi
 - **Cours**
