@@ -43,18 +43,34 @@ MatriceCell tabCell {{{0, 1, 2, 3, 4},      // 0
 classe `Cell` à utiliser
 
 ~~~cpp
+#ifndef CLASS_CELL
+#define CLASS_CELL
+
+#include <iostream>
+
+
+//------------------------------------------------------------------------------
+using uint = unsigned int;
+
 class Cell {
+   friend std::ostream& operator<<(std::ostream& os, const Cell& cell) {
+      return os << cell.n; }
 public:
    Cell()       : Cell(0)   { };
    Cell(uint n) : n(n)      { };
    Cell& operator= (bool b) { if (b and n==0) n = 1;        // naissance
                               else if (not b and n>0) --n;  // perd une vie
                               return *this;}
-   operator bool() const    { return this->n; }
+
+   operator bool() const                   { return this->n; }
+   bool operator== (const Cell& rhs) const { return this->n == rhs.n; }
 
 private:
    uint n;
 };
+
+#endif // CLASS_CELL
+~~~
 
 ---
 Bon travail
