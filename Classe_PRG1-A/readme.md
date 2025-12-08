@@ -363,6 +363,8 @@
 
 ### Lundi
 - **Cours**
+    - chap 11 => fin
+    - chap 12 => slide 9
 
 ### Mardi
 - **Labo**
