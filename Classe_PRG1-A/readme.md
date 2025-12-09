@@ -393,6 +393,7 @@
 ### Jeudi
 - **Cours**
 - **Labo**
+	- fondue 🫕
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 05.01.2026 - 11.01.2026 [⬆︎](readme.md#start)
