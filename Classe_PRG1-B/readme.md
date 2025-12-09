@@ -396,7 +396,7 @@
 > ## <a name="semaine_14"></a>SEMAINE 14 - 05.01.2026 - 11.01.2026 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours 16h30 - C23**
+- **Cours 16h30 - F01**
   - TE no 3
 
 ### Mardi
