@@ -368,10 +368,16 @@
 
 ### Mardi
 - **Labo**
+	- Labo-09
+
 
 ### Mercredi
 - **Cours**
+    - exercices chap 11 : revue et corrections
+    - chap 12 => slide 17
+
 - **Labo**
+    - exercices chap 12 : 01-01 à 02-05
 
 ### Jeudi
 - **Cours**
