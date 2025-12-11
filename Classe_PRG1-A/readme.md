@@ -381,7 +381,10 @@
 
 ### Jeudi
 - **Cours**
+    - chap 12 => fin
 - **Labo**
+    - présenté solution Labo-09 Jeu de la Vie
+    - exercices chap 12 : à terminer
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 15.12.2025 - 21.12.2025 [⬆︎](readme.md#start)
