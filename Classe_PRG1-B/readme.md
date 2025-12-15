@@ -364,33 +364,51 @@
 
 ### Mardi
 - **Labo**
+	- Labo-09
 
 ### Jeudi
 - **Labo**
 	- fondue 🫕
 
 - **Cours**
+    - exercices chap 11 : revue et corrections
+    - chap 12 => slide 17
 
 ### Vendredi
 - **Cours**
+    - chap 12 => fin
+    - présenté solution Labo-09 Jeu de la Vie
+
 - **Labo**
+    - exercices chap 12 : à terminer
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 15.12.2025 - 21.12.2025 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+	- rendu TE no 2
+	- exercices chap 12
 
 ### Mardi
 - **Labo**
+    - exercices chap 12
 
 ### Jeudi
 - **Cours**
-- **Labo**
+	- TE no 3 à blanc
 
-### Vendredi
-- **Cours**
 - **Labo**
+	- feedback Labo-09
+	- chap 13 => 
+
+### Vendredi (cours annulé)
+- **Cours**
+	- cours annulé
+	- exercices chap 12
+
+- **Labo**
+	- cours annulé
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 05.01.2026 - 11.01.2026 [⬆︎](readme.md#start)
