@@ -408,7 +408,8 @@
 
 ### Jeudi
 - **Cours**
-	- chap 13 => 
+	- chap 13 => 16
+	- exercices chap 11 : 01-01 à 01-05
 
 - **Labo**
 	- fondue 🫕
