@@ -423,14 +423,21 @@
 
 ### Mardi
 - **Labo**
+	- chap 13 => ..
 
 ### Mercredi
 - **Cours**
+	- chap 13 => ..
+
 - **Labo**
+	- exercices chap 13
 
 ### Jeudi
 - **Cours**
+	- Labo-10
+
 - **Labo**
+	- Labo-10
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 12.01.2026 - 18.01.2026 [⬆︎](readme.md#start)
