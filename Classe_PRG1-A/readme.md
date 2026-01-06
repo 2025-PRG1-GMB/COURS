@@ -423,7 +423,8 @@
 
 ### Mardi
 - **Labo**
-	- chap 13 => ..
+	- chap 13 => 24
+	- exercices chap 13 à avancer
 
 ### Mercredi
 - **Cours**
