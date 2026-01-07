@@ -419,14 +419,15 @@
 
 ### Mardi
 - **Labo**
-	- chap 13 => ..
+	- chap 13 => slide 18
+	- exercices chap 13 à avancer
 
 ### Jeudi
 - **Cours**
-	- chap 13 => ..
+	- chap 13 => fin
 
 - **Labo**
-	- exercices chap 13
+	- exercices chap 13 à terminer pour lundi
 
 ### Vendredi
 - **Cours**
