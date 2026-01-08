@@ -1,5 +1,8 @@
 ## Container <T, n> avec iterateurs
 
+### GitHub Classroom
+- [Classe A](https://classroom.github.com/a/wkwnGek1)
+
 ### Objectif
 
 - Classe générique
