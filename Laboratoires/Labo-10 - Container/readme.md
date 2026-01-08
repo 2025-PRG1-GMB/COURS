@@ -739,6 +739,6 @@ try {
 
 ### Modalités
 - à faire **par groupe de 2 étudiants**
-- 8 périodes
+- 6 périodes
 
 Bon travail
