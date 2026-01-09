@@ -7,14 +7,13 @@
 | 3 | Antunes Romain | Rusticoni Mathias |
 | 4 | Dongmo Sarah | Bosshart Thomas |
 | 5 | Maraldi Kenzo | Cannizzaro Théo |
-| 6 | Billault Martin | Favre Adi |
+| 6 | Billault Martin | Berney Dylan |
 | 7 | dos_Santos Noa | Fontana Benjamin |
 | 8 | Pelerieau Thomas | Bossel Emeline |
 | 9 | Ragoubi Mouna | Jegatheeswaran Jeroshan |
 | 10 | Vaucher Eliott | Borcard Jessy |
-| 11 | Szivós Márton | Berney Dylan |
+| 11 | Favre Adi | Szivós Márton |
 | 12 | Diss Julien | Maendly Gilles |
 | 13 | Vienet Bastien | Fischer Valentin |
 
 Generated on 2026-01-07 10:35:49
-
