@@ -10,10 +10,11 @@
 | 6 | Billault Martin | Favre Adi |
 | 7 | dos_Santos Noa | Fontana Benjamin |
 | 8 | Pelerieau Thomas | Bossel Emeline |
-| 9 | Ragoubi Mouna | Diss Julien |
+| 9 | Ragoubi Mouna | Jegatheeswaran Jeroshan |
 | 10 | Vaucher Eliott | Borcard Jessy |
 | 11 | Szivós Márton | Berney Dylan |
-| 12 | Jegatheeswaran Jeroshan | Maendly Gilles |
+| 12 | Diss Julien | Maendly Gilles |
 | 13 | Vienet Bastien | Fischer Valentin |
 
 Generated on 2026-01-07 10:35:49
+
