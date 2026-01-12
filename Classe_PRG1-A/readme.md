@@ -435,26 +435,37 @@
 
 ### Jeudi
 - **Cours**
-	- Labo-10
+	- Labo-10 - Container G
 
 - **Labo**
-	- Labo-10
+	- Labo-10 - Container G
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 12.01.2026 - 18.01.2026 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+	- revue exercices chap 13
+	- chap 14 => slide 29
+	- exercices chap 14
 
 ### Mardi
 - **Labo**
+	- Labo-10 - Container G
 
 ### Mercredi
 - **Cours**
+	- chap 14 => slide fin
+	- exercices chap 14
+
 - **Labo**
+	- Labo-10 - Container G
 
 ### Jeudi
 - **Cours**
+	- exercices chap 14
+	- examen à blanc
+
 - **Labo**
 
 ---

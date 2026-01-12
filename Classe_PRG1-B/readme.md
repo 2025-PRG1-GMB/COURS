@@ -441,16 +441,26 @@
 
 ### Lundi
 - **Cours**
+	- revue exercices chap 13
+	- chap 14 => slide ..
 
 ### Mardi
 - **Labo**
+	- Labo-10 - Container G
 
 ### Jeudi
 - **Cours**
+	- chap 14 => slide 29
+	- exercices chap 14
+
 - **Labo**
+	- Labo-10 - Container G
 
 ### Vendredi
 - **Cours**
+	- exercices chap 14
+	- examen à blanc
+
 - **Labo**
 
 ---
