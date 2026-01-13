@@ -472,12 +472,12 @@
 	- chap 15 => slide ...
 	- exercices chap 15
 
-- **Cours - 16h30-18h00**
+- **Cours - 16h30 - 18h00**
 	- TE no 4 (rattrapage)
 
 ### Mardi
 - **Labo**
-	- TE no 4 (exercices)
+	- TE no 4 (exercices pour tous)
 
 ### Jeudi
 - **Cours**
