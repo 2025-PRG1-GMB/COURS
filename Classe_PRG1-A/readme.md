@@ -473,16 +473,30 @@
 
 ### Lundi
 - **Cours**
+	- revue exercice chap 14
+	- chap 15 => slide ...
+	- exercices chap 15
+
+- **Cours - 16h30-18h00**
+	- TE no 4 (rattrapage)
 
 ### Mardi
 - **Labo**
+	- TE no 4 (exercices)
 
 ### Mercredi
 - **Cours**
+	- chap 15 => fin
+	- exercices chap 15
 - **Labo**
+	- révision
 
 ### Jeudi
 - **Cours**
+	- révision
+
 - **Labo**
+	- rendu Labo-10 (à confirmer)
+	- synthèse de cours
 ---
 
