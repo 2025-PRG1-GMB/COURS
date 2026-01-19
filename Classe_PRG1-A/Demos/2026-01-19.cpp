@@ -98,6 +98,8 @@ int main () {
 
       cout << tab[12]   << endl;
       cout << *(tab+12) << endl;
+
+      cout << 12[tab]   << endl;
       cout << *(12+tab) << endl;
 
       int* ptr = &tab[5];
