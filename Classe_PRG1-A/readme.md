@@ -474,7 +474,7 @@
 ### Lundi
 - **Cours**
 	- revue exercice chap 14
-	- chap 15 => slide ...
+	- chap 15 => slide 28
 	- exercices chap 15
 
 - **Cours - 16h30 - 18h00**
@@ -488,6 +488,7 @@
 - **Cours**
 	- chap 15 => fin
 	- exercices chap 15
+
 - **Labo**
 	- révision
 
