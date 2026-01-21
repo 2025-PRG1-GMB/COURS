@@ -484,14 +484,15 @@
 	- chap 15 => fin
 	- exercices chap 15
 - **Labo**
-	- révision
+	- rendu TE no 3
+	- rendu TE no 4
 
 ### Vendredi
 - **Cours**
-	- révision
+	- rendu Labo-10
+	- synthèse de cours
 
 - **Labo**
-	- rendu Labo-10 (à confirmer)
-	- synthèse de cours
+	- révision
 ---
 

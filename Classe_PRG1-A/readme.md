@@ -494,10 +494,11 @@
 
 ### Jeudi
 - **Cours**
-	- révision
+	- rendu TE no 3
+	- rendu TE no 4
 
 - **Labo**
-	- rendu Labo-10 (à confirmer)
+	- rendu Labo-10
 	- synthèse de cours
 ---
 
