@@ -13,7 +13,7 @@ void f(int* ptr) {
 
 //----------------------------
 //void g(int tab[]) {
-void g(int* tab) {
+void g(const int* tab) {
    cout << sizeof(tab) << endl;
    cout << sizeof(tab) / sizeof(int) << endl;
 }
