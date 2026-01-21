@@ -487,10 +487,10 @@
 ### Mercredi
 - **Cours**
 	- chap 15 => fin
-	- exercices chap 15
+	- exercices chap 15 à faire / terminer
 
 - **Labo**
-	- révision
+	- révision / GMB absent
 
 ### Jeudi
 - **Cours**
